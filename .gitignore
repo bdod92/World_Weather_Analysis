@@ -1,6 +1,10 @@
 # adding config.py file.
 config.py
 
+#adding the additional config files in subdirectories
+Weather_Database/config.py
+Vacation_Search/config.p
+
 #adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
